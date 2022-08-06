@@ -1,1 +1,1 @@
-# practice-grokking_algorithms-GoLang-Java-Javascript-Python
+# practice-grokking_algorithms-GoLang-Java-Javascript
