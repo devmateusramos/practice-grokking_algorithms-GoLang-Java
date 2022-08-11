@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/_1_binary_search/_1_binary_search.iml" filepath="$PROJECT_DIR$/_1_binary_search/_1_binary_search.iml" />
       <module fileurl="file://$PROJECT_DIR$/_2_selection_sort/_2_selection_sort.iml" filepath="$PROJECT_DIR$/_2_selection_sort/_2_selection_sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/_3_recursion/_3_recursion.iml" filepath="$PROJECT_DIR$/_3_recursion/_3_recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_4_quicksort/_4_quicksort.iml" filepath="$PROJECT_DIR$/_4_quicksort/_4_quicksort.iml" />
     </modules>
   </component>
 </project>
