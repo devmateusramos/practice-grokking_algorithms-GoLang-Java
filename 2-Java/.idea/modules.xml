@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/_3_recursion/_3_recursion.iml" filepath="$PROJECT_DIR$/_3_recursion/_3_recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/_4_quicksort/_4_quicksort.iml" filepath="$PROJECT_DIR$/_4_quicksort/_4_quicksort.iml" />
       <module fileurl="file://$PROJECT_DIR$/_8_greedy_algorithms/_8_greedy_algorithms.iml" filepath="$PROJECT_DIR$/_8_greedy_algorithms/_8_greedy_algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_9_dynamic_programming/_9_dynamic_programming.iml" filepath="$PROJECT_DIR$/_9_dynamic_programming/_9_dynamic_programming.iml" />
     </modules>
   </component>
 </project>
